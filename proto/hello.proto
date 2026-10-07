@@ -1,0 +1,5 @@
+edition = "2023";
+
+message Hello {
+    string name = 1;
+}
